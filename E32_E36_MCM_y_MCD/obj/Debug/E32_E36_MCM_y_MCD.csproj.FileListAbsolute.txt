@@ -1,0 +1,7 @@
+C:\Users\Fam RN\source\Ejercicios C\E32_E36_MCM_y_MCD\E32_E36_MCM_y_MCD\bin\Debug\E32_E36_MCM_y_MCD.exe.config
+C:\Users\Fam RN\source\Ejercicios C\E32_E36_MCM_y_MCD\E32_E36_MCM_y_MCD\bin\Debug\E32_E36_MCM_y_MCD.exe
+C:\Users\Fam RN\source\Ejercicios C\E32_E36_MCM_y_MCD\E32_E36_MCM_y_MCD\bin\Debug\E32_E36_MCM_y_MCD.pdb
+C:\Users\Fam RN\source\Ejercicios C\E32_E36_MCM_y_MCD\E32_E36_MCM_y_MCD\obj\Debug\E32_E36_MCM_y_MCD.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E32_E36_MCM_y_MCD\E32_E36_MCM_y_MCD\obj\Debug\E32_E36_MCM_y_MCD.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E32_E36_MCM_y_MCD\E32_E36_MCM_y_MCD\obj\Debug\E32_E36_MCM_y_MCD.exe
+C:\Users\Fam RN\source\Ejercicios C\E32_E36_MCM_y_MCD\E32_E36_MCM_y_MCD\obj\Debug\E32_E36_MCM_y_MCD.pdb
